@@ -2022,7 +2022,7 @@
   "death.attack.cramming.player": "%1$s was squashed by %2$s",
   "death.attack.drown": "%1$s drowned",
   "death.attack.drown.player": "%1$s drowned whilst trying to escape %2$s",
-  "death.attack.starve": "%1$s starved to death",
+  "death.attack.starve": "%1$s fasted too long",
   "death.attack.starve.player": "%1$s starved to death whilst fighting %2$s",
   "death.attack.cactus": "%1$s tried to hug a cactus",
   "death.attack.cactus.player": "%1$s walked into a cactus whilst trying to escape %2$s",
